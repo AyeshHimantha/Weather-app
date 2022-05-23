@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AyeshHimantha/weather-app.git/static/css/main.9c7f03d1.css",
-    "main.js": "/AyeshHimantha/weather-app.git/static/js/main.957343aa.js",
-    "static/media/background.jpg": "/AyeshHimantha/weather-app.git/static/media/background.064b1abc7aabfcb7f6a0.jpg",
-    "index.html": "/AyeshHimantha/weather-app.git/index.html",
-    "main.9c7f03d1.css.map": "/AyeshHimantha/weather-app.git/static/css/main.9c7f03d1.css.map",
-    "main.957343aa.js.map": "/AyeshHimantha/weather-app.git/static/js/main.957343aa.js.map"
+    "main.css": "/weather-app.git/static/css/main.75f9a96c.css",
+    "main.js": "/weather-app.git/static/js/main.957343aa.js",
+    "static/media/background.jpg": "/weather-app.git/static/media/background.064b1abc7aabfcb7f6a0.jpg",
+    "index.html": "/weather-app.git/index.html",
+    "main.75f9a96c.css.map": "/weather-app.git/static/css/main.75f9a96c.css.map",
+    "main.957343aa.js.map": "/weather-app.git/static/js/main.957343aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c7f03d1.css",
+    "static/css/main.75f9a96c.css",
     "static/js/main.957343aa.js"
   ]
 }
