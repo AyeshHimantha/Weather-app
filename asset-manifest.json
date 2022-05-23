@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AyeshHimantha/Weather-app.git/static/css/main.71ce90de.css",
+    "main.js": "/AyeshHimantha/Weather-app.git/static/js/main.957343aa.js",
+    "static/media/background.jpg": "/AyeshHimantha/Weather-app.git/static/media/background.064b1abc7aabfcb7f6a0.jpg",
+    "index.html": "/AyeshHimantha/Weather-app.git/index.html",
+    "main.71ce90de.css.map": "/AyeshHimantha/Weather-app.git/static/css/main.71ce90de.css.map",
+    "main.957343aa.js.map": "/AyeshHimantha/Weather-app.git/static/js/main.957343aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ce90de.css",
+    "static/js/main.957343aa.js"
+  ]
+}
